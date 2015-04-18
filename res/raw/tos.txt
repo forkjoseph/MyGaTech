@@ -1,0 +1,38 @@
+MyGatech for Android Terms of Use
+Last updated: February 22, 2013
+IF YOU USE THE "MyGatech" APPLICATION, YOU WILL BE BOUND BY THIS AGREEMENT.
+UTILIZE THE CONTACT INFORMATION IF ANY PART OF THESE TERMS AREN'T CLEAR.
+
+
+1. MyGatech
+
+In the MyGatech application, you will be able to access services designed to assist students at the Georgia Institute of Technology.
+This application is made at no monetary cost to the user. The Georgia Institute of Technology is not affiliated with the creators of the MyGatech application. The creators are not receiving any kind of compensation or support from the aforementioned institution. Since the application utilizes data provided by the Georgia Institute of Technology (similar to how a web browser would), "We" (the creators of MyGatech) can not be held responsible for the data provided by the application.
+
+
+2. Use of and Restrictions of MyGatech application
+
+2.1 Information Provided to the creators of "MyGatech". The creators of "MyGatech" respect your privacy. The MyGatech application will not access files or other information on any device where your Apps are located that are not used by or otherwise related to the MyGatech application. The creators of MyGatech will store information of the user in local and on-line database. These databases may store some personal information to enhance the experience of the user. For example, the online databases will store suggestions the user makes, the username, and the email of the user. However, the information stored may not be limited to the enumerated items. The password of the user will not be stored in the online database, but locally in the phone.
+
+	(i) You may not modify, reverse engineer, decompile or disassemble the App in whole or in part, or create any derivative works from or sublicense any rights in the App, unless otherwise expressly authorized in writing by Publisher.
+
+	(ii) You acknowledge and agree that the creators of MyGatech have no responsibility or liability with respect to your use of the App or any content or functionality in the App.
+
+2.3 Compliance with Law and Reservation of Rights. You will use Apps in compliance with all applicable laws, including all export and re-export restrictions and regulations of the Department of Commerce and other United States agencies and authorities that may apply to any App. We reserve the right to change, remove, suspend, or disable any App without notice or liability.
+
+
+3. General
+
+3.1 Changes. We may modify, suspend or discontinue the MyGatech application, in whole or in part, at any time without notice. We may also limit and prohibit use by certain users of this application who misuse or abuse the application.
+
+3.2 Geographic Restrictions. The MyGatech application is operated in the United States. The application will only have full functionality when used on the Georgia Institute of Technology campus.
+
+3.3 Suspension and Termination; Amendments. Your rights under this Agreement will automatically terminate without notice from us if you fail to comply with its terms. In case of such termination, you must cease all use of the MyGatech and the MyGatech, and we may immediately revoke your access to the MyGatech without notice to you. Our failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of our rights. We may amend any of this Agreement's terms at our sole discretion. The updated terms will be made available on the MyGatech download page. Your continued use of the MyGatech application after the effective date of the revised Agreement terms constitutes your acceptance of the terms.
+
+
+4. Contact and Liability
+ 
+4.1 Contact Information. For communications concerning this Agreement, please send an email to mygatech.claim@gmail.com
+
+4.2 Limitation of Liability. The Creators of the MyGatech application absolve all responsibility for the accuracy of the application and the application's performance. We cannot and will not be accountable for data provided by the Geogia Institute of Technology, which we faithfully reproduce in our application. By utilizing this application you absolve the creators of all liability regarding all aspects of the application or any services related to the application. The creators will do their best, but make no guarantee about the quality of the application. The creators reserve the right to end support for the application at any time.
+

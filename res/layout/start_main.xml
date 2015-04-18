@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sv"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+
+    <RelativeLayout
+        android:id="@+id/startRelative"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <ImageView
+            android:id="@+id/bigLogo"
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            android:layout_alignLeft="@+id/username"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:contentDescription="@string/bigLogo"
+            android:src="@drawable/biglogo" />
+
+        <ImageView
+            android:id="@+id/iam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bigLogo"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/iAmDoing"
+            android:scaleType="fitXY"
+            android:src="@drawable/iamdoing" />
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/iam"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/rounded_edittext"
+            android:ems="10"
+            android:hint="@string/login_user_hint"
+            android:padding="10dp"
+            android:textSize="20sp" >
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/username"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/rounded_edittext"
+            android:ems="10"
+            android:hint="@string/login_pass_hint"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/login"
+            style="@style/btnStyleBlackpearl"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_alignRight="@+id/password"
+            android:layout_below="@+id/password"
+            android:layout_marginTop="25dp"
+            android:adjustViewBounds="true"
+            android:gravity="center"
+            android:onClick="onCheckBoxClicked"
+            android:text="@string/save"
+            android:textColor="@color/white"
+            android:textScaleX="1.5"
+            android:textSize="20sp" />
+
+
+        <TextView
+            android:id="@+id/textPassVisi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/bigLogo"
+            android:layout_below="@+id/password"
+            android:layout_marginTop="7dp"
+            android:text="@string/passVisi"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <CheckBox
+            android:id="@+id/setPassVisi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/login"
+            android:layout_alignBottom="@+id/login"
+            android:layout_alignLeft="@+id/textPassVisi"
+            android:layout_marginLeft="16dp"
+            android:button="@drawable/selector_check"
+            android:checked="false"
+            android:onClick="onCheckBoxClicked"
+            android:padding="3dp"
+            android:scaleX="2"
+            android:scaleY="2" />
+
+        <ImageView
+            android:id="@+id/loading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+        
+      <!--   <CheckBox
+            android:id="@+id/admin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/login"
+            android:layout_alignBottom="@+id/login"
+            android:layout_centerHorizontal="true"
+            android:button="@drawable/selector_check"
+            android:checked="false"
+            android:onClick="onCheckBoxClicked"
+            android:scaleX="2"
+            android:scaleY="2" />-->
+    </RelativeLayout>
+
+</ScrollView>

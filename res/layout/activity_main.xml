@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainRL"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:splitMotionEvents="false"
+    tools:context=".MainActivity" >
+
+    <ListView
+        android:id="@+id/mainList"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/mainLinear"
+        android:layout_alignParentTop="true" >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/mainLinear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="ca-app-pub-8485337591062784/5403383553"
+            android:gravity="bottom" />
+    </LinearLayout>
+
+</RelativeLayout>

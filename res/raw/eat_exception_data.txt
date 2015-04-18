@@ -1,0 +1,390 @@
+//Today is ... SUNDAY through SATURDAY are contiguous (1 through 7)
+//Valid from 1/1/2014 - 5/11/2014
+/**1.01,1.02,1.03,1.04,1.05,1.06,1.17,1.18,1.19,1.20,1.21,3.14,3.15,3.16,3.17,3.18,3.19,3.20,3.21,3.22,3.23,3.24,4.27,4.28,4.29,4.30,5.01,5.02,5.03,5.04,5.05,5.06,5.07,5.08,5.09,5.10,5.11
+Starbucks @CULC,8,15,5,1.02
+//JANUARY Exceptions
+//Reason: OFFICIALSCHOOLHOLIDAY
+//Reason: FACULTY/STAFF
+Subway,10.5,14.5,5,1.02
+Chick-fil-A,7.5,15,5,1.02
+//Reason: FIRSTBOARDMEAL/FACULTY/STAFF
+Woodruff,16,20,6,1.03
+North Ave,16,20,6,1.03
+Starbucks @CULC,8,15,6,1.03
+Subway,10.5,14.5,6,1.03
+Chick-fil-A,7.5,15,6,1.03
+//Reason: DORMSOPEN
+Woodruff,10,14,7,1.04
+Woodruff,17,20,7,1.04
+North Ave,10,14,7,1.04
+North Ave,17,20,7,1.04
+//Reason: DAYBEFORECLASSES
+Brittain,16,20,1,1.05
+Woodruff,10,22,1,1.05
+North Ave,10,2,1,1.05
+Starbucks @CULC,11,22,1,1.05
+//Reason: FIRSTDAYOFCLASSES
+Brittain,7,20,2,1.06
+Woodruff,7,22,2,1.06
+North Ave,7,2,2,1.06
+Ferst Place,11,14,2,1.06
+Cafe Spice,7,16,2,1.06
+Chef Sharon's Station,7,16,2,1.06
+Essential Eats,7,16,2,1.06
+Far East Fusion,7,16,2,1.06
+Great Wraps,7,16,2,1.06
+Rosia's Cantina,7,16,2,1.06
+Salad Bar,7,16,2,1.06
+Zaya Mediterannean,7,16,2,1.06
+Dunkin' Donuts,7,16,2,1.06
+Pizza Hut,11,16,2,1.06
+Starbucks @CULC,7,22,2,1.06
+WestSide Market,16,1,2,1.06
+Freshens at H2O,24,20,2,1.06
+Taco Bell,10.5,22,2,1.06
+Subway,10.5,20,2,1.06
+Chick-fil-A,7,22,2,1.06
+Burger Bytes,11,19,2,1.06
+//Reason: MLKWEEKEND
+Brittain,7,15,6,1.17
+Woodruff,7,20,6,1.17
+North Ave,7,20,6,1.17
+Ferst Place,11,14,6,1.17
+Cafe Spice,7,15,6,1.17
+Chef Sharon's Station,7,15,6,1.17
+Essential Eats,7,15,6,1.17
+Far East Fusion,7,15,6,1.17
+Great Wraps,7,15,6,1.17
+Rosia's Cantina,7,15,6,1.17
+Salad Bar,7,15,6,1.17
+Zaya Mediterannean,7,15,6,1.17
+Dunkin' Donuts,7,15,6,1.17
+Starbucks @CULC,7,16,6,1.17
+Subway,10.5,16,6,1.17
+Chick-fil-A,7,16.5,6,1.17
+//Reason: MLKWEEKEND
+Woodruff,10,14,7,1.18
+Woodruff,17,20,7,1.18
+North Ave,10,14,7,1.18
+North Ave,17,20,7,1.18
+//Reason: MLKWEEKEND
+Woodruff,10,14,1,1.19
+Woodruff,17,20,1,1.19
+North Ave,10,14,1,1.19
+North Ave,17,20,1,1.19
+//Reason: MLKDAY/OFFICIALSCHOOLHOLIDAY
+Woodruff,10,14,2,1.20
+Woodruff,17,22,2,1.20
+North Ave,10,14,2,1.20
+North Ave,17,22,2,1.20
+//Reason: CLASSES
+Brittain,7,20,3,1.21
+Woodruff,7,22,3,1.21
+North Ave,7,2,3,1.21
+Ferst Place,11,14,3,1.21
+Cafe Spice,7,16,3,1.21
+Chef Sharon's Station,7,16,3,1.21
+Essential Eats,7,16,3,1.21
+Far East Fusion,7,16,3,1.21
+Great Wraps,7,16,3,1.21
+Rosia's Cantina,7,16,3,1.21
+Salad Bar,7,16,3,1.21
+Zaya Mediterannean,7,16,3,1.21
+Dunkin' Donuts,7,16,3,1.21
+Pizza Hut,11,16,3,1.21
+Starbucks @CULC,7,2,3,1.21
+WestSide Market,16,1,3,1.21
+Freshens at H2O,24,20,3,1.21
+Taco Bell,10.5,22,3,1.21
+Subway,10.5,20,3,1.21
+Chick-fil-A,7,22,3,1.21
+Burger Bytes,11,19,3,1.21
+//MARCH Exceptions
+//Reason: CLASSES
+Brittain,7,15,6,3.14
+Woodruff,7,15,6,3.14
+North Ave,7,15,6,3.14
+Ferst Place,11,14,6,3.14
+Cafe Spice,7,15,6,3.14
+Chef Sharon's Station,7,15,6,3.14
+Essential Eats,7,15,6,3.14
+Far East Fusion,7,15,6,3.14
+Great Wraps,7,15,6,3.14
+Rosia's Cantina,7,15,6,3.14
+Salad Bar,7,15,6,3.14
+Zaya Mediterannean,7,15,6,3.14
+Dunkin' Donuts,7,15,6,3.14
+Starbucks @CULC,7,16,6,3.14
+Subway,10.5,15,6,3.14
+Chick-fil-A,7,16.5,6,3.14
+//Reason: SPRINGBREAK
+//Reason: SPRINGBREAK
+//Reason: SPRINGBREAK
+Cafe Spice,7,14.5,2,3.17
+Chef Sharon's Station,7,14.5,2,3.17
+Essential Eats,7,14.5,2,3.17
+Far East Fusion,7,14.5,2,3.17
+Great Wraps,7,14.5,2,3.17
+Rosia's Cantina,7,14.5,2,3.17
+Salad Bar,7,14.5,2,3.17
+Zaya Mediterannean,7,14.5,2,3.17
+Dunkin' Donuts,7,14.5,2,3.17
+Starbucks @CULC,8,15,2,3.17
+Chick-fil-A,7,18,2,3.17
+//Reason: SPRINGBREAK
+Cafe Spice,7,14.5,3,3.18
+Chef Sharon's Station,7,14.5,3,3.18
+Essential Eats,7,14.5,3,3.18
+Far East Fusion,7,14.5,3,3.18
+Great Wraps,7,14.5,3,3.18
+Rosia's Cantina,7,14.5,3,3.18
+Salad Bar,7,14.5,3,3.18
+Zaya Mediterannean,7,14.5,3,3.18
+Dunkin' Donuts,7,14.5,3,3.18
+Starbucks @CULC,8,15,3,3.18
+Chick-fil-A,7,18,3,3.18
+//Reason: SPRINGBREAK
+Cafe Spice,7,14.5,4,3.19
+Chef Sharon's Station,7,14.5,4,3.19
+Essential Eats,7,14.5,4,3.19
+Far East Fusion,7,14.5,4,3.19
+Great Wraps,7,14.5,4,3.19
+Rosia's Cantina,7,14.5,4,3.19
+Salad Bar,7,14.5,4,3.19
+Zaya Mediterannean,7,14.5,4,3.19
+Dunkin' Donuts,7,14.5,4,3.19
+Starbucks @CULC,8,15,4,3.19
+Chick-fil-A,7,18,4,3.19
+//Reason: SPRINGBREAK
+Cafe Spice,7,14.5,5,3.20
+Chef Sharon's Station,7,14.5,5,3.20
+Essential Eats,7,14.5,5,3.20
+Far East Fusion,7,14.5,5,3.20
+Great Wraps,7,14.5,5,3.20
+Rosia's Cantina,7,14.5,5,3.20
+Salad Bar,7,14.5,5,3.20
+Zaya Mediterannean,7,14.5,5,3.20
+Dunkin' Donuts,7,14.5,5,3.20
+Starbucks @CULC,8,15,5,3.20
+Chick-fil-A,7,18,5,3.20
+//Reason: SPRINGBREAK
+Cafe Spice,7,14.5,6,3.21
+Chef Sharon's Station,7,14.5,6,3.21
+Essential Eats,7,14.5,6,3.21
+Far East Fusion,7,14.5,6,3.21
+Great Wraps,7,14.5,6,3.21
+Rosia's Cantina,7,14.5,6,3.21
+Salad Bar,7,14.5,6,3.21
+Zaya Mediterannean,7,14.5,6,3.21
+Dunkin' Donuts,7,14.5,6,3.21
+Starbucks @CULC,8,15,6,3.21
+Chick-fil-A,7,18,6,3.21
+//Reason: SPRINGBREAK
+//Reason: ENDOFSPRINGBREAK
+Woodruff,10,22,1,3.23
+North Ave,10,2,1,3.23
+Starbucks @CULC,16,2,1,3.23
+//Reason: FIRSTDAYOFCLASSES
+Brittain,7,20,2,3.24
+Woodruff,7,22,2,3.24
+North Ave,7,2,2,3.24
+Ferst Place,11,14,2,3.24
+Cafe Spice,7,16,2,3.24
+Chef Sharon's Station,7,16,2,3.24
+Essential Eats,7,16,2,3.24
+Far East Fusion,7,16,2,3.24
+Great Wraps,7,16,2,3.24
+Rosia's Cantina,7,16,2,3.24
+Salad Bar,7,16,2,3.24
+Zaya Mediterannean,7,16,2,3.24
+Dunkin' Donuts,7,16,2,3.24
+Pizza Hut,11,16,2,3.24
+Starbucks @CULC,7,2,2,3.24
+WestSide Market,16,1,2,3.24
+Freshens at H2O,24,20,2,3.24
+Taco Bell,10.5,22,2,3.24
+Subway,10.5,20,2,3.24
+Chick-fil-A,7,22,2,3.24
+Burger Bytes,11,19,2,3.24
+//APRIL Exceptions
+//Reason: DAYBEFOREFINAL'SBEGIN
+Brittain,16,20,1,4.27
+Woodruff,10,0,1,4.27
+North Ave,10,0,1,4.27
+Starbucks @CULC,10,0,1,4.27
+WestSide Market,16,1,1,4.27
+//Reason: FINALS
+Brittain,7,20,2,4.28
+Woodruff,0,24,2,4.28
+North Ave,0,24,2,4.28
+Ferst Place,11,14,2,4.28
+Cafe Spice,7,16,2,4.28
+Chef Sharon's Station,7,16,2,4.28
+Essential Eats,7,16,2,4.28
+Far East Fusion,7,16,2,4.28
+Great Wraps,7,16,2,4.28
+Rosia's Cantina,7,16,2,4.28
+Salad Bar,7,16,2,4.28
+Zaya Mediterannean,7,16,2,4.28
+Dunkin' Donuts,7,16,2,4.28
+Pizza Hut,11,16,2,4.28
+Starbucks @CULC,0,24,2,4.28
+WestSide Market,16,1,2,4.28
+Freshens at H2O,24,20,2,4.28
+Taco Bell,10.5,22,2,4.28
+Subway,10.5,20,2,4.28
+Chick-fil-A,7,22,2,4.28
+Burger Bytes,11,19,2,4.28
+//Reason: FINALS
+Brittain,7,20,3,4.29
+Woodruff,0,24,3,4.29
+North Ave,0,24,3,4.29
+Ferst Place,11,14,3,4.29
+Cafe Spice,7,16,3,4.29
+Chef Sharon's Station,7,16,3,4.29
+Essential Eats,7,16,3,4.29
+Far East Fusion,7,16,3,4.29
+Great Wraps,7,16,3,4.29
+Rosia's Cantina,7,16,3,4.29
+Salad Bar,7,16,3,4.29
+Zaya Mediterannean,7,16,3,4.29
+Dunkin' Donuts,7,16,3,4.29
+Pizza Hut,11,16,3,4.29
+Starbucks @CULC,0,24,3,4.29
+WestSide Market,16,1,3,4.29
+Freshens at H2O,24,20,3,4.29
+Taco Bell,10.5,22,3,4.29
+Subway,10.5,20,3,4.29
+Chick-fil-A,7,22,3,4.29
+Burger Bytes,11,19,3,4.29
+//Reason: FINALS
+Brittain,7,20,4,4.30
+Woodruff,0,24,4,4.30
+North Ave,0,24,4,4.30
+Ferst Place,11,14,4,4.30
+Cafe Spice,7,16,4,4.30
+Chef Sharon's Station,7,16,4,4.30
+Essential Eats,7,16,4,4.30
+Far East Fusion,7,16,4,4.30
+Great Wraps,7,16,4,4.30
+Rosia's Cantina,7,16,4,4.30
+Salad Bar,7,16,4,4.30
+Zaya Mediterannean,7,16,4,4.30
+Dunkin' Donuts,7,16,4,4.30
+Pizza Hut,11,16,4,4.30
+Starbucks @CULC,0,24,4,4.30
+WestSide Market,16,1,4,4.30
+Freshens at H2O,24,20,4,4.30
+Taco Bell,10.5,22,4,4.30
+Subway,10.5,20,4,4.30
+Chick-fil-A,7,22,4,4.30
+Burger Bytes,11,19,4,4.30
+//MAY Exceptions
+//Reason: FINALS
+Brittain,7,20,5,5.01
+Woodruff,0,24,5,5.01
+North Ave,0,24,5,5.01
+Ferst Place,11,14,5,5.01
+Cafe Spice,7,16,5,5.01
+Chef Sharon's Station,7,16,5,5.01
+Essential Eats,7,16,5,5.01
+Far East Fusion,7,16,5,5.01
+Great Wraps,7,16,5,5.01
+Rosia's Cantina,7,16,5,5.01
+Salad Bar,7,16,5,5.01
+Zaya Mediterannean,7,16,5,5.01
+Dunkin' Donuts,7,16,5,5.01
+Pizza Hut,11,16,5,5.01
+Starbucks @CULC,0,24,5,5.01
+WestSide Market,16,1,5,5.01
+Freshens at H2O,24,20,5,5.01
+Taco Bell,10.5,22,5,5.01
+Subway,10.5,20,5,5.01
+Chick-fil-A,7,22,5,5.01
+Burger Bytes,11,19,5,5.01
+//Reason: FINALSEND
+Brittain,7,15,6,5.02
+Woodruff,0,15,6,5.02
+North Ave,0,15,6,5.02
+Ferst Place,11,14,6,5.02
+Cafe Spice,7,15,6,5.02
+Chef Sharon's Station,7,15,6,5.02
+Essential Eats,7,15,6,5.02
+Far East Fusion,7,15,6,5.02
+Great Wraps,7,15,6,5.02
+Rosia's Cantina,7,15,6,5.02
+Salad Bar,7,15,6,5.02
+Zaya Mediterannean,7,15,6,5.02
+Dunkin' Donuts,7,15,6,5.02
+Starbucks @CULC,7,15,6,5.02
+Subway,10.5,15,6,5.02
+Chick-fil-A,7,16.5,6,5.02
+//Reason: COMMENCEMENT
+//Reason: SEMESTERBREAK
+//Reason: SEMESTERBREAK
+Cafe Spice,7,14.5,2,5.05
+Chef Sharon's Station,7,14.5,2,5.05
+Essential Eats,7,14.5,2,5.05
+Far East Fusion,7,14.5,2,5.05
+Great Wraps,7,14.5,2,5.05
+Rosia's Cantina,7,14.5,2,5.05
+Salad Bar,7,14.5,2,5.05
+Zaya Mediterannean,7,14.5,2,5.05
+Dunkin' Donuts,7,14.5,2,5.05
+Starbucks @CULC,8,15,2,5.05
+Subway,10.5,15,2,5.05
+Chick-fil-A,7,15,2,5.05
+//Reason: SEMESTERBREAK
+Cafe Spice,7,14.5,3,5.06
+Chef Sharon's Station,7,14.5,3,5.06
+Essential Eats,7,14.5,3,5.06
+Far East Fusion,7,14.5,3,5.06
+Great Wraps,7,14.5,3,5.06
+Rosia's Cantina,7,14.5,3,5.06
+Salad Bar,7,14.5,3,5.06
+Zaya Mediterannean,7,14.5,3,5.06
+Dunkin' Donuts,7,14.5,3,5.06
+Starbucks @CULC,8,15,3,5.06
+Subway,10.5,15,3,5.06
+Chick-fil-A,7,15,3,5.06
+//Reason: SEMESTERBREAK
+Cafe Spice,7,14.5,4,5.07
+Chef Sharon's Station,7,14.5,4,5.07
+Essential Eats,7,14.5,4,5.07
+Far East Fusion,7,14.5,4,5.07
+Great Wraps,7,14.5,4,5.07
+Rosia's Cantina,7,14.5,4,5.07
+Salad Bar,7,14.5,4,5.07
+Zaya Mediterannean,7,14.5,4,5.07
+Dunkin' Donuts,7,14.5,4,5.07
+Starbucks @CULC,8,15,4,5.07
+Subway,10.5,15,4,5.07
+Chick-fil-A,7,15,4,5.07
+//Reason: SEMESTERBREAK
+Cafe Spice,7,14.5,5,5.08
+Chef Sharon's Station,7,14.5,5,5.08
+Essential Eats,7,14.5,5,5.08
+Far East Fusion,7,14.5,5,5.08
+Great Wraps,7,14.5,5,5.08
+Rosia's Cantina,7,14.5,5,5.08
+Salad Bar,7,14.5,5,5.08
+Zaya Mediterannean,7,14.5,5,5.08
+Dunkin' Donuts,7,14.5,5,5.08
+Starbucks @CULC,8,15,5,5.08
+Subway,10.5,15,5,5.08
+Chick-fil-A,7,15,5,5.08
+//Reason: SEMESTERBREAK
+Cafe Spice,7,14.5,6,5.09
+Chef Sharon's Station,7,14.5,6,5.09
+Essential Eats,7,14.5,6,5.09
+Far East Fusion,7,14.5,6,5.09
+Great Wraps,7,14.5,6,5.09
+Rosia's Cantina,7,14.5,6,5.09
+Salad Bar,7,14.5,6,5.09
+Zaya Mediterannean,7,14.5,6,5.09
+Dunkin' Donuts,7,14.5,6,5.09
+Starbucks @CULC,8,15,6,5.09
+Subway,10.5,15,6,5.09
+Chick-fil-A,7,15,6,5.09
+//Reason: SEMESTERBREAK
+//Reason: SEMESTERBREAK

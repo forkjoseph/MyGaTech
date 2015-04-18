@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/loginSetting"
+        android:orderInCategory="100"
+        android:title="@string/loginSetting"/>
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="1000"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/Settings"
+        android:orderInCategory="200"
+        android:title="@string/Settings"/>
+        <item
+        android:id="@+id/GUEST"
+        android:orderInCategory="300"
+        android:title="@string/guest"/>
+
+    <!--
+         <item 
+	    android:id="@+id/Impress"
+	    android:orderInCategory="1000"
+	    android:title="@string/impress"/>
+    -->
+
+</menu>

@@ -1,0 +1,297 @@
+Skiles Classroom Building; NaN; 686 Cherry Street NW; 33.7736034515; -84.3962993020; 0
+School of Literature and Communcation; NaN; 686 Cherry Street NW; 33.7736034515; -84.3962993020; 0
+School of Mathematics; NaN; 686 Cherry Street NW; 33.7736034515; -84.3962993020; 0
+Alumni House; NaN; 190 North Avenue NW; 33.7711210543; -84.3935152888; 2
+Alumni Association; NaN; 190 North Avenue NW; 33.7711210543; -84.3935152888; 2
+Smith Residence Hall; NaN; 630 Williams Street NW; 33.7716919395; -84.3913205496; 6
+Brown Residence Hall; NaN; 625 Techwood Drive NW; 33.7717442506; -84.3918506931; 6
+Peters Parking Deck; NaN; 749 Fowler Street; 33.7748600465; -84.3935230556; 4
+Burge Parking Deck; NaN; 200 North Avenue; 33.7709809568; -84.3939553429; 4
+Howell Residence Hall; NaN; 640 Williams Street NW; 33.7721380667; -84.3909280970; 6
+Harris Residence Hall; NaN; 633 Techwood Drive NW; 33.7721142809; -84.3917858055; 6
+Brittain Dining Hall; NaN; 649 Techwood Drive NW; 33.7724414837; -84.3914182417; 2
+Cloudman Residence Hall; NaN; 661 Techwood Drive NW; 33.7727423212; -84.3917298156; 6
+Harrison Residence Hall; NaN; 660 Williams Street NW; 33.7727798799; -84.3909376860; 6
+Towers Residence Hall; NaN; 112 Bobby Dodd Way; 33.7734378374; -84.3910726746; 6
+Glenn Residence Hall; NaN; 118 Bobby Dodd Way; 33.7734454385; -84.3915540788; 6
+Bobby Dodd Stadium; NaN; 155 North Avenue NW; 33.7725011818; -84.3928369100; 1
+Athletic Association; NaN; 154 Bobby Dodd Way; 33.7738135961; -84.3925196622; 1
+Edge Athletic Center; NaN; 154 Bobby Dodd Way; 33.7738135961; -84.3925196622; 1
+School of Civil and Environmental Engineering; NaN; 200 Bobby Dodd Way; 33.7737040947; -84.3940421870; 0
+Daniel Laboratory; NaN; 200 Bobby Dodd Way; 33.7737040947; -84.3940421870; 0
+Smith Building; NaN; 685 Cherry St. NW; 33.7736499926; -84.3951793334; 0
+School of Public Policy; NaN; 685 Cherry St. NW; 33.7736499926; -84.3951793334; 0
+Chapin Building; NaN; 681 Cherry St. NW; 33.7733292392; -84.3953052667; 0
+OMED; NaN; 681 Cherry St. NW; 33.7733292392; -84.3953052667; 0
+Holland Building; NaN; 680 Power Plant; 33.7732545647; -84.3946032603; 2
+A. French Building; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+School of Aerospace Engineering; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Engineering Computing Services; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+GT Honors Office; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+International Plan Office; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Fellowships Office; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Office of Assessment; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Pre-Health Advisement Office; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Work Abroad Program Office; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Vice Provost for International Initiatives; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Vice Provost for Faculty and Academic Development; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Vice Provost for Graduate and Undergraduate Studies; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+PC Cluster; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Pre-Teaching Advisement Office; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Program Review and Accreditation Office; NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Undergraduate Research Options Office (UROP); NaN; 237 Uncle Heinie Way; 33.7729272170; -84.3945926659; 2
+Bill Moore Student Success Center; NaN; 219 Uncle Heinie Way NW; 33.7724525832; -84.3940426752; 2
+Bill Moore Student Success Center; NaN; 219 Uncle Heinie Way NW; 33.7724525832; -84.3940426752; 2
+Career Services; NaN; 219 Uncle Heinie Way NW; 33.7724525832; -84.3940426752; 2
+Corporate Liason Program; NaN; 219 Uncle Heinie Way NW; 33.7724525832; -84.3940426752; 2
+Special Programs; NaN; 219 Uncle Heinie Way NW; 33.7724525832; -84.3940426752; 2
+Student Financial Services and Planning; NaN; 219 Uncle Heinie Way NW; 33.7724525832; -84.3940426752; 2
+Undergraduate Admissions; NaN; 219 Uncle Heinie Way NW; 33.7724525832; -84.3940426752; 2
+Facilities; NaN; 955 Fowler St.; 33.7799290416; -84.3931459513; 2
+O'Keefe Main Building; NaN; 151 Sixth Street NW; 33.7788585046; -84.3921813766; 0
+Airforce Aerospace Studies; NaN; 151 Sixth Street NW; 33.7788585046; -84.3921813766; 0
+Army ROTC; NaN; 151 Sixth Street NW; 33.7788585046; -84.3921813766; 0
+Center for Int'l Standards and Quality; NaN; 151 Sixth Street NW; 33.7788585046; -84.3921813766; 0
+Language Institute; NaN; 151 Sixth Street NW; 33.7788585046; -84.3921813766; 0
+Navy ROTC; NaN; 151 Sixth Street NW; 33.7788585046; -84.3921813766; 0
+Administration Building; NaN; 225 North Avenue NW; 33.7723568507; -84.3948275065; 2
+College of Engineering; NaN; 225 North Avenue NW; 33.7723568507; -84.3948275065; 2
+Internal Auditing Department; NaN; 225 North Avenue NW; 33.7723568507; -84.3948275065; 2
+Office of the Registrar; NaN; 225 North Avenue NW; 33.7723568507; -84.3948275065; 2
+College of Sciences; NaN; 225 North Avenue NW; 33.7723568507; -84.3948275065; 2
+Administration Building; NaN; 225 North Avenue NW; 33.7723568507; -84.3948275065; 2
+Administration and Finance; NaN; 223 Uncle Heinie Way NW; 33.7724485887; -84.3943107372; 0
+Carnegie Building; NaN; 223 Uncle Heinie Way NW; 33.7724485887; -84.3943107372; 0
+Savant Building; NaN; 631 Cherry St. NW; 33.7720764066; -84.3953345825; 0
+Office of Organizational Development; NaN; 631 Cherry St. NW; 33.7720764066; -84.3953345825; 0
+Office of International Education; NaN; 631 Cherry St. NW; 33.7720764066; -84.3953345825; 0
+Office of Graduate Studies and Research; NaN; 631 Cherry St. NW; 33.7720764066; -84.3953345825; 0
+Division of Professional Practice; NaN; 631 Cherry St. NW; 33.7720764066; -84.3953345825; 0
+Swann Building; NaN; 613 Cherry St. NW; 33.7716801661; -84.3953661158; 0
+The Dept. of Modern Languages; NaN; 613 Cherry St. NW; 33.7716801661; -84.3953661158; 0
+Guggenheim Building; NaN; 265 North Avenue NW; 33.7716089211; -84.3958015541; 0
+School of Aerospace Engineering; NaN; 265 North Avenue NW; 33.7716089211; -84.3958015541; 0
+Engineering Science and Mechanics (ESM) Building; NaN; 620 Cherry Street NW; 33.7720490321; -84.3957652725; 0
+Center for Distance Learning; NaN; 620 Cherry Street NW; 33.7720490321; -84.3957652725; 0
+School of Earth and Atmospheric Sciences; NaN; 620 Cherry Street NW; 33.7720490321; -84.3957652725; 0
+College of Engineering; NaN; 620 Cherry Street NW; 33.7720490321; -84.3957652725; 0
+School of Mechanical Engineering; NaN; 620 Cherry Street NW; 33.7720490321; -84.3957652725; 0
+Visitor Information Parking; NaN; 355 Ferst Drive; 33.7735682762; -84.3992733950; 4
+Coon Building; NaN; 654 Cherry Street NW; 33.7725454190; -84.3958023516; 0
+School of Psychology; NaN; 654 Cherry Street NW; 33.7725454190; -84.3958023516; 0
+Beringause Building; NaN; 879 Hemphill Avenue NW; 33.7789551306; -84.4013349224; 2
+Cable Network; NaN; 177 North Avenue N.W.; 33.7716433682; -84.3928319653; 2
+Communications & Marketing; NaN; 177 North Avenue N.W.; 33.7716433682; -84.3928319653; 2
+Office of Development; NaN; 177 North Avenue N.W.; 33.7716433682; -84.3928319653; 2
+Wardlaw Center; NaN; 177 North Avenue N.W.; 33.7716433682; -84.3928319653; 2
+Mechanical Engineering Research Building; NaN; 676 ME Drive; 33.7729556266; -84.3962494668; 0
+School of Chemistry and Biochemistry; NaN; 801 Atlantic Drive NW; 33.7774213868; -84.3973861458; 0
+College of Computing; NaN; 801 Atlantic Drive NW; 33.7774213868; -84.3973861458; 0
+School of Electrical and Computer Engineering; NaN; 801 Atlantic Drive NW; 33.7774213868; -84.3973861458; 0
+College of Computing; NaN; 801 Atlantic Drive NW; 33.7774213868; -84.3973861458; 0
+Hinman Research Building; NaN; 723 Cherry Street NW; 33.7746798954; -84.3952555432; 0
+Graduate Living Center; NaN; 301 Tenth Street NW; 33.7819692544; -84.3966117496; 6
+Student Center Parking Deck(ClyDeck); NaN; 391 Ferst Drive NW; 33.7741432352; -84.4005501673; 4
+School of Industrial and Systems Engineering; NaN; 759 Ferst Drive NW; 33.7754824531; -84.4013866381; 0
+Instructional Center - (IC); NaN; 759 Ferst Drive NW; 33.7754824531; -84.4013866381; 0
+Groseclose Building; NaN; 765 Ferst Drive; 33.7757757694; -84.4019312360; 0
+School of Industrial and Systems Engineering; NaN; 755 Ferst Drive; 33.7752302189; -84.4019190707; 0
+School of Economics; NaN; 221 Bobby Dodd Way; 33.7740795133; -84.3946622500; 0
+School of Civil and Environmental Engineering; NaN; 221 Bobby Dodd Way; 33.7740795133; -84.3946622500; 0
+School of History Technology and Society; NaN; 221 Bobby Dodd Way; 33.7740795133; -84.3946622500; 0
+Old CE; NaN; 221 Bobby Dodd Way; 33.7740795133; -84.3946622500; 0
+School of Literature Media and Communication Writing and Communication program;  NaN; 215 Bobby Dodd Way; 33.7740731942; -84.3941172122; 2
+Hall Building; NaN; 215 Bobby Dodd Way; 33.7740731942; -84.3941172122; 2
+430 10th Street NW Building; NaN; 430 Tenth Street; 33.7810914684; -84.4014771107; 0
+GTRI; NaN; 430 Tenth Street; 33.7810914684; -84.4014771107; 0
+Undergraduate Living Center - (ULC); NaN; 580 Turner Place NW; 33.7781338502; -84.4055016945; 6
+Maulding Residence Hall (6th St E Apartments); NaN; 501 Sixth Street NW; 33.7769838929; -84.4055586086; 6
+School of Biology; NaN; 310 Ferst Drive NW; 33.7779456518; -84.3972479286; 0
+Cherry Emerson Building; NaN; 310 Ferst Drive NW; 33.7779456518; -84.3972479286; 0
+Chandler Stadium; NaN; 255 Ferst Drive NW; 33.7776606048; -84.3944385324; 1
+Tenth&Home; NaN; 251 Tenth Street NW; 33.7818149040; -84.3953810770; 6
+Alexander Memorial Coliseum; NaN; 965 Fowler Street NW; 33.7807069736; -84.3927968269; 1
+Bradley Building; NaN; 224 Uncle Heinie Way; 33.7726674301; -84.3944493697; 2
+College of Architecture-West Wing; NaN; 247 Fourth Street NW; 33.7760737721; -84.3961144478; 0
+Industrial Design; NaN; 247 Fourth Street NW; 33.7760737721; -84.3961144478; 0
+City Planning; NaN; 247 Fourth Street NW; 33.7759619478; -84.3954963807; 0
+College of Architecture; NaN; 247 Fourth Street NW; 33.7759619478; -84.3954963807; 0
+Library and Information Center; NaN; 704 Cherry Street NW; 33.7743817579; -84.3958427875; 0
+Bill Moore Tennis Center; NaN; 940 Fowler Street NW; 33.7804160650; -84.3941672516; 1
+Howey-Physics Building and Observatory; NaN; 800 Atlantic Drive NW; 33.7774498958; -84.3983121656; 0
+Student Health Center; NaN; 740 Ferst Drive NW; 33.7746346346; -84.4030667554; 2
+King Facilities Building; NaN; 915 Atlantic Drive; 33.7804273013; -84.3960953761; 2
+Weber Space Science and Technology Building I - (SST); NaN; 281 Ferst Drive; 33.7727514624; -84.3966914892; 0
+Van Leer EE CmpE Building; NaN; 777 Atlantic Drive NW; 33.7756733160; -84.3973934973; 0
+Bunger-Henry Building; NaN; 778 Atlantic Drive NW; 33.7756668941; -84.3982444233; 0
+NNRC; NaN; 900 Atlantic Drive NW; 33.7795754205; -84.3980144370; 0
+Neely Nuclear Research Center; NaN; 900 Atlantic Drive NW; 33.7795754205; -84.3980144370; 0
+Athletic Association Conference Room; NaN; null; 33.7735138891; -84.3935516189; 2
+Field Residence Hall; NaN; 711 Techwood Drive NW; 33.7742227603; -84.3916726662; 6
+Matheson Residence Hall; NaN; 711 Techwood Drive NW; 33.7745299419; -84.3916100497; 6
+Perry Residence Hall; NaN; 711 Techwood Drive NW; 33.7745445690; -84.3911431985; 6
+Hanson Residence Hall; NaN; 711 Techwood Drive NW; 33.7742167642; -84.3909530526; 6
+Hopkins Residence Hall; NaN; 711 Techwood Drive NW; 33.7740773170; -84.3913054037; 6
+Pettit Microelectronics Research Center (MIRC); NaN; 791 Atlantic Drive; 33.7766025421; -84.3974270684; 0
+Ajax Building; NaN; 881 Hemphill Avenue; 33.7793300137; -84.4017346223; 2
+Weber Space Science and Technology Building II - (SST); NaN; 275 Ferst Drive; 33.7726499825; -84.3963333160; 0
+Baker Building; NaN; 939 Dalney Street; 33.7800449952; -84.3995612535; 0
+Crosland Tower; NaN; 704 Cherry Street NW; 33.7742474332; -84.3952900246; 0
+Montgomery-Knight Building; NaN; 270 Ferst Drive NW; 33.7718553011; -84.3960479204; 0
+Boggs Building; NaN; 770 State Street; 33.7756743048; -84.3998711284; 0
+Food Court; NaN; 350 Ferst Drive NW; 33.7740178694; -84.3988101038; 2
+Wenn Student Center; NaN; 350 Ferst Drive NW; 33.7740178694; -84.3988101038; 2
+Commander Building; NaN; 871 McMillan Street NW; 33.7788970607; -84.4039230891; 2
+Fulmer Residence Hall; NaN; 871 McMillan Street NW; 33.7788970607; -84.4039230891; 6
+Hefner Residence Hall; NaN; 510 Eighth Street NW; 33.7791859156; -84.4039370436; 6
+Armstrong Residence Hall; NaN; 489 Eighth Street NW; 33.7791892889; -84.4035631359; 6
+Caldwell Residence Hall; NaN; 521 Turner Place NW; 33.7789489786; -84.4044097337; 6
+Folk Residence Hall; NaN; 531 Turner Place NW; 33.7789555319; -84.4048270251; 6
+Mason Civil Engineering Building; NaN; 790 Atlantic Drive NW; 33.7766174282; -84.3983700607; 0
+Central Receiving-Property Control; NaN; 888 Hemphill Avenue; 33.7788189889; -84.4023649890; 2
+Stamps Student Center Commons; NaN; 350 Ferst Drive NW; 33.7736836792; -84.3982069359; 2
+Student Organizations; NaN; 350 Ferst Drive NW; 33.7736836792; -84.3982069359; 2
+WREK; NaN; 350 Ferst Drive NW; 33.7736836792; -84.3982069359; 2
+Hair Cuttery; NaN; 350 Ferst Drive NW; 33.7736836792; -84.3982069359; 2
+BuzzCard Center; NaN; 350 Ferst Drive NW; 33.7736836792; -84.3982069359; 2
+Cyber Cafe; NaN; 350 Ferst Drive NW; 33.7736836792; -84.3982069359; 2
+Couch Building; NaN; 840 McMillan Street NW; 33.7782150789; -84.4044247065; 0
+Woodruff Residence Hall; NaN; 890 Curran Street NW; 33.7791791515; -84.4063834133; 6
+Freeman Residence Hall; NaN; 835 McMillian Street NW; 33.7775452250; -84.4038993182; 6
+Montag Residence Hall; NaN; 845 McMillan Street NW; 33.7779005767; -84.4038903995; 6
+Fitten Residence Hall; NaN; 855 McMillian Street NW; 33.7782198888; -84.4037961960; 6
+Campus Recreation Center; NaN; 750 Ferst Drive NW; 33.7754862588; -84.4032279690; 1
+Associate Vice President; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Auxiliary Services; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Central Housing Office; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Counseling Center; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Greek Affairs; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Student Affairs; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Student Government Assoc.; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Women's Resource Center; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Student Publications; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Dean of Students; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Disablilty Services; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Center for the Arts Office; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Vice President; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Smithgall Student Services Building; NaN; 353 Ferst Drive NW; 33.7743262652; -84.3995400177; 2
+Ferst Center for the Arts; NaN; 349 Ferst Drive NW; 33.7748305006; -84.3992303970; 2
+Southern Regional Education Board; NaN; 580 Tenth Street; 33.7811915486; -84.4065402047; 2
+Manufacturing Research Center - (MARC); NaN; 813 Ferst Drive NW; 33.7776452900; -84.4014104226; 0
+Fiber Optic Network Building; NaN; 915 Atlantic Drive; 33.7793036067; -84.3970837092; 0
+Center for Assistive Technology and Environmental Access; NaN; 490 Tenth Street; 33.7812815131; -84.4033182905; 0
+Institute of Paper Science and Technology; NaN; 500 Tenth Street; 33.7810105663; -84.4045344477; 0
+8th St Apartments; NaN; 555 Eighth Street NW; 33.7800636486; -84.4050724726; 6
+Hemphill Avenue Apartments; NaN; 900 Hemphill Avenue NW; 33.7799206821; -84.4031488329; 6
+Center Street Apartments; NaN; 939 Hemphill Avenue NW; 33.7798267634; -84.4017793878; 6
+Stein Hayes Goldin and Fourth St. E Houses; NaN; 733 Techwood Drive NW; 33.7750919259; -84.3915921450; 6
+Manufacturing Related Disciplines Complex - (MRDC); NaN; 801 Ferst Drive; 33.7770373103; -84.4005299150; 0
+GTRI (Callaway Building); NaN; 505 Tech Way ; 33.7709734800; -84.4026558295; 0
+Ivan Allen College (Habersham); NaN; 781 Marietta Street NW; 33.7739034880; -84.4043551855; 0
+Office of Information Technology; NaN; 811 Marietta Street; 33.7747977039; -84.4054697612; 2
+Curran St Parking Deck; NaN; 875 Curran Street; 33.7791737073; -84.4055236844; 4
+Aquatic Center; NaN; 750 Ferst Drive; 33.7757233131; -84.4040899549; 1
+GTRI Conference Center (250 14th Street NW Building); NaN; 250 14th Street NW; 33.7857668666; -84.3949608292; 0
+Office of Human Resources; NaN; 500 Tech Parkway; 33.7733129307; -84.4026127538; 2
+J. Erskine Love Manufacturing Building; NaN; 771 Ferst Drive; 33.7765509431; -84.4017857861; 0
+Lamar Allen Sustainable Education Building; NaN; 788 Atlantic Drive; 33.7762003470; -84.3988653991; 0
+Parker H. Petit Biotechnology Building (IBB); NaN; 315 Ferst Drive;33.7786402965; -84.3972592336; 0
+Ford Motor Company Environmental Science and Technology (ES&T); NaN; 311 Ferst Drive NW; 33.7788795254; -84.3960428124; 0
+North Campus Parking Deck; NaN; 352 Peachtree Pl; 33.7801764984; -84.3984885620; 4
+Structural Engineering and Materials Research; NaN; 625 Lambert Street; 33.7709714799; -84.4041300404; 0
+Aerospace Engineering Combustion Lab; NaN; 636 Strong Street; 33.7703963042; -84.4025064396; 0
+Broadband Institute Residential Laboratory Aware Home; NaN; 479 Tenth St; 33.7816592528; -84.4029044842; 0
+Christopher W. Klaus Advanced Computing Building; NaN; 266 Ferst Drive; 33.7772567649; -84.3962001801; 0
+Research Administration; NaN; 505 Tenth Street; 33.7817150897; -84.4039343715; 2
+The Office of Sponsored Programs; NaN; 505 Tenth Street; 33.7817150897; -84.4039343715; 2
+Office of Information Technology (OIT); NaN; 845 Marietta Street; 33.7758913763; -84.4064220501; 2
+Digital Fabrication Lab; NaN; 676 Marietta St; 33.7717357072; -84.4014259460; 0
+Food Processing Technology Building; NaN; 640 Strong Street; 33.7703984992; -84.4037141568; 0
+Marcus Nanotechnology Building; NaN; null; 33.7787549530; -84.3986463547; 0
+Grinnell Building; NaN; null; 33.7718254599; -84.4061817891; 2
+Business Services; NaN; 711 Marietta Street; 33.7728029369; -84.4015072019; 2
+UA Whitaker Building; NaN; 313 Ferst Drive NW; 33.7784582895; -84.3966555893; 0
+Wallace H. Coulter Dept. of Biomedical Engineering; NaN; 313 Ferst Drive NW;33.7784582895; -84.3966555893; 0
+CULC; NaN; null; 33.7744117655; -84.3963595397; 0
+Clough Undergraduate Learning Commons; NaN; null; 33.7744117655; -84.3963595397; 0
+Molecular Science and Engineering (MoSE or MSE); NaN; null; 33.7798250714; -84.3966722488; 0
+5th St. Ribs 'n Blues; NaN; 84 5th Street 30308-1031; 33.7764382759; -84.3899797242; 0
+Dept. of Continuing Education; NaN; 84 5th Street 30308-1031; 33.7764382759; -84.3899797242; 0
+Global Learning Center; NaN; 84 5th Street 30308-1031; 33.7764382759; -84.3899797242; 0
+Tin Drum Asian Cafe; NaN; 84 5th Street 30308-1031; 33.7764382759; -84.3899797242; 0
+Super Cuts; NaN; 84 5th Street 30308-1031; 33.7764382759; -84.3899797242; 0
+Global Learning & Conference Center; NaN; 84 5th Street; 33.7764382759; -84.3899797242; 0
+Georgia Tech Hotel and Conference Center; NaN; 800 Spring Street NW; 33.7765057079; -84.3890679263; 2
+Barnes & Noble Bookstore; NaN; Technology Square 48 Fifth Street NW ; 33.7762930720; -84.3882902410; 2
+Starbucks; NaN; Technology Square 48 Fifth Street NW; 33.7762930720; -84.3882902410; 2
+Economic Development Building (EDB); NaN; 760 Spring Street; 33.7754515740; -84.3890244678; 0
+CEISMC; NaN; 760 Spring Street; 33.7754515740; -84.3890244678; 0
+Georgia Tech Foundation (GTF); NaN; 760 Spring Street; 33.7754515740; -84.3890244678; 0
+Technology Square Parking Deck; NaN; 770 Spring Street; 33.7756377380; -84.3893792402; 4
+Yogli Mogli; NaN; 85 5th Street NE; 33.7772660102; -84.3900934450; 0
+Subway Sandwich; NaN; 85 5th Street NE; 33.7772660102; -84.3900934450; 0
+Modern Care Cleaners and Newsstand; NaN; 85 5th Street NE; 33.7772660102; -84.3900934450; 0
+T-Mobile; NaN; 85 5th Street NE 30308; 33.7772660102; -84.3900934450; 0
+Moe's Southwestern Grill; NaN; 85 5th Street NE 30308; 33.7772660102; -84.3900934450; 0
+Technology Square Research Building; NaN; 85 5th Street NE; 33.7772660102; -84.3900934450; 0
+Centergy One; NaN; 75 5th Street NW Suite 100; 33.7770560448; -84.3891470744; 0
+Advanced Technology Development Center; NaN; 75 5th Street NW Suite 100; 33.7770560448; -84.3891470744; 0
+GCATT; NaN; 75 5th Street NW Suite 100; 33.7770560448; -84.3891470744; 0
+Health Systems Institute; NaN; 828 West Peachtree St NW; 33.7773281077; -84.3877029419; 0
+North Avenue Apartments South Parking Deck; NaN; null; 33.7686771963; -84.3913813597; 4
+Mewborn Field; NaN; null; 33.7789599068; -84.3930014140; 1
+Carbon Neutral Energy Solutions (CNES) Laboratory; NaN; 495 Tech Way; 33.7711570000; -84.4033460000; 0
+Alpha Epsilon Pi; NaN; 714 Techwood Dr. NW; 33.7740875033; -84.3923426634; 3
+Alpha Tau Omega; NaN; 205 Fourth St. NW; 33.7761712676; -84.3940720461; 3
+Beta Theta Pi; NaN; 764 Fowler St. NW; 33.7755482674; -84.3943475310; 3
+Chi Phi; NaN; 720 Fowler St. NW; 33.7743644714; -84.3939819336; 3
+Chi Psi; NaN; 150 4th St. NW; 33.7752186660; -84.3924981192; 3
+Delta Sigma Phi; NaN; null; 33.7757011934; -84.3924351298; 3
+Delta Tau Delta; NaN; 227 Fourth St. NW; 33.7759243958; -84.3947703717; 3
+Delta Upsilon; NaN; 154 Fifth St. NW; 33.7767348745; -84.3922638968; 3
+Kappa Alpha; NaN; 801 Techwood Dr. NW; 33.7765150792; -84.3918222119; 3
+Kappa Sigma; NaN; 182 Sixth St. NW; 33.7779166843; -84.3932926655; 3
+Lambda Chi Alpha; NaN; 792 Techwood Dr. NW; 33.7762638618; -84.3922123124; 3
+Phi Delta Theta; NaN; 734 Fowler St. NW; 33.7746200562; -84.3940505981; 3
+Phi Gamma Delta; NaN; 841 Fowler St. NW; 33.7775688896; -84.3933355808; 3
+Phi Kappa Sigma; NaN; 783 Techwood Dr. NW; 33.7760993204; -84.3918283453; 3
+Phi Kappa Tau; NaN; 175 Fourth St. NW; 33.7758391367; -84.3925973114; 3
+Phi Kappa Theta; NaN; 800 Fowler St. NW; 33.7766706427; -84.3938256742; 3
+Phi Sigma Kappa; NaN; 825 Techwood Dr. NW; 33.7771410079; -84.3918971364; 3
+Pi Kappa Alpha; NaN; 260 Ferst Drive NW; 33.7767496531; -84.3952454925; 3
+Psi Upsilon; NaN; 831 Techwood Drive; 33.7775332182; -84.3917691708; 3
+Alpha Xi Delta; NaN; 847 Techwood Drive; 33.7778642823; -84.3918294615; 3
+Sigma Alpha Epsilon; NaN; 221 Fourth St. NW; 33.7760461823; -84.3944974716; 3
+Sigma Chi; NaN; 770 Techwood Dr. NW; 33.7756247164; -84.3922444710; 3
+Sigma Nu; NaN; 750 Fowler St. NW; 33.7750801169; -84.3942448047; 3
+Sigma Phi Epsilon; NaN; 190 5th st. NW; 33.7767204873; -84.3933650567; 3
+Tau Kappa Epsilon; NaN; 159 Fifth St. NW; 33.7770803046; -84.3923900587; 3
+Theta Chi; NaN; 840 Techwood Dr. NW; 33.7776134787; -84.3924021721; 3
+Zeta Beta Tau; NaN; 160 Sixth Street NW; 33.7779166843; -84.3925094604; 3
+Alpha Chi Omega; NaN; 741 Brittain Dr. NW; 33.7749057471; -84.3929078429; 3
+Christian Campus Fellowship; NaN; 767 Techwood Dr NW; 33.7756080793; -84.3917079106; 5
+CCF; NaN; 767 Techwood Dr NW; 33.7756080793; -84.3917079106; 5
+Alpha Gamma Delta; NaN; 177 Fifth St. NW; 33.7771117321; -84.3929403083; 3
+Alpha Delta Pi; NaN; 729 Brittain Drive NW; 33.7745117573; -84.3928320746; 3
+Delta Chi; NaN; 170 Fifth St; 33.7766863083; -84.3927953806; 3
+Pi Kappa Phi; NaN; 220 Ferst Dr.; 33.7767083964; -84.3942913399; 3
+Alpha Delta Chi; NaN; 162 Fourth Street NW; 33.7753952376; -84.3927018141; 3
+Zeta Tau Alpha; NaN; 189 Fifth St NW; 33.7771618775; -84.3933605682; 3
+Baptist Student Union; NaN; 740 Techwood Dr NW; 33.7747693692; -84.3922446349; 5
+Burger Bowl Field; NaN; null; 33.7783680059; -84.4027473653; 7
+Catholic Center; NaN; 172 Fourth Street NW; 33.7755428204; -84.3930130021; 5
+Cross Country; NaN; null; 33.7797458610; -84.3947195631; 7
+Track and Field; NaN; null; 33.7797458610; -84.3947195631; 7
+Griffin Track; NaN; null; 33.7797458610; -84.3947195631; 7
+Lutheran Campus Ministry; NaN; 182 Fifth St NW; 33.7767021908; -84.3931212829; 5
+Lutheran Center; NaN; 182 Fifth St NW; 33.7767021908; -84.3931212829; 5
+Wesley Foundation. Methodist Center; NaN; 189 Fourth St NW; 33.7761119143; -84.3933232003; 5
+Vernon D. and Helen D. Crawford Pool; NaN; (404) 892-8825; 33.7751120059; -84.4038728505; 1
+Westminster Christian Fellowship; NaN; 724 Techwood Drive 30313; 33.7745775932; -84.3921555620; 5
+Rose Bowl Field; NaN; null; 33.7787441134; -84.3944599901; 7
+Sports Intramurals; NaN; 750 Ferst Drive NW; 33.7768196936; -84.4036673607; 7
+Stamps Field; NaN; 750 Ferst Drive NW; 33.7768196936; -84.4036673607; 7
+Alumni Park; NaN; null; 33.7768426939; -84.4049177549; 7
+Kessler Campanile; NaN; 355 Ferst Drive; 33.7742732069; -84.3981931656; 7
+Tech Tower Lawn; NaN; null; 33.7717988579; -84.3944406509; 7
+Harrison Square; NaN; null; 33.7728467673; -84.3952184916; 7

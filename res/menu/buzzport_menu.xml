@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/buzzport"
+        android:orderInCategory="200"
+        android:showAsAction="always"
+        android:textSize="20sp"
+        android:title="@string/buzzport"/>
+    <item
+        android:id="@+id/oscar"
+        android:orderInCategory="300"
+        android:showAsAction="always"
+        android:textSize="5sp"
+        android:title="@string/oscar"/>
+    <item
+        android:id="@+id/none"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:enabled="false"
+        android:title="@string/empty_string"/>
+
+</menu>

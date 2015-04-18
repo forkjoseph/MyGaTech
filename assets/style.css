@@ -1,0 +1,143 @@
+
+p
+{
+    overflow-x:hidden;
+	
+	font-family: Verdana;
+}
+
+input.buttonfield{
+	font-family: Verdana;
+	font-size: 18px;
+	color:white;
+	background-color: black;
+	border: 2px solid #dadada;
+    border-radius: 7px;
+	border-color: black;
+	text-align: left;
+	width: auto;
+	margin-bottom: 6px;
+	}
+
+
+input.inputfield
+{
+	font-family: Verdana;
+	font-size: 25px;
+	width: 100%;
+	color: grey;
+	border: 2px solid #dadada;
+    border-radius: 7px;
+
+	margin-bottom: 6px;
+}
+
+input.selectfield{
+	font-family: Verdana;
+	font-size: 25px;
+	width: 100%;
+	color: black;
+	border: 2px solid #dadada;
+    border-radius: 7px;
+
+	margin-bottom: 6px;
+	}
+input.selectfield:focus{
+border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+input.inputfield:focus{
+border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+	}
+
+select
+{
+    overflow-x:hidden;
+	font-family: Verdana;
+	font-size: 25px;
+	width: auto;
+	color: grey;
+	border: 2px solid #dadada;
+    border-radius: 7px;
+
+	margin-bottom: 5px;
+}
+select:focus{
+border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+	}
+
+span
+{
+    overflow-x:hidden;
+	font-size: 15px;
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 5px;
+		padding-right: 10px; 
+
+	font-family: Verdana;
+	font-weight: normal;
+}
+
+textarea
+{
+    overflow-x:hidden;
+	width: 100%;
+	font-family: Verdana;
+	font-size: 25px;
+	color: #666;
+	
+	border: 2px solid #dadada;
+    border-radius: 7px;
+	margin-bottom: 5px;
+}
+textarea:foce{
+border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+	}
+
+
+h1
+{
+    overflow-x:hidden;
+
+	font-family: Verdana;
+	font-weight: normal;
+	text-align: right;
+	font-size: 40px;
+}
+
+.normaltext
+{
+    overflow-x:hidden;
+		padding-right: 10px; 
+	font-family: Verdana;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 24px;
+	
+}
+
+li
+{
+    overflow-x:hidden;
+
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+
+
+.header
+{
+    overflow-x:hidden;
+	width: 93%;
+	font-size: 28px; 
+	padding-left: 10px; 
+		padding-right: 10px; 
+
+	float: left;
+}

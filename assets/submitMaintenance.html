@@ -1,0 +1,47 @@
+
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<BODY bgcolor="#FFFFFF" text="#333333" link="#333399" vlink="#333399" alink="#3399FF">
+<table  border="2" cellspacing="0" cellpadding="5" align="center" bgcolor="#FFFFFF">
+<tr>
+<td valign="top" width="38%">
+<p align="left" class="normalTextHead">Submit Maintenance Request</p>
+<p class="normaltext"><font color="#FF0000">In order to process your requests properly, please submit each request separately.</font></p>
+<p align="left" class="normalTextHead"><FORM action="http://128.61.170.203/facility_select.cgi" method="post" encType="x-www-form-encoded">
+<INPUT type=hidden value=MC name="Facility Menu">
+<INPUT class="buttonfield" type=submit align=baseline value="Submit Maintenance Work Request" name="Submit Maintenance Work Request">
+</FORM></p>
+<p align="left" class="normalTextHead"><FORM action="resNet.html" method="post" target="_top">
+<INPUT class="buttonfield" type=submit align=baseline value="Network or Television Help Request" name="Submit ResNet Help Request">
+</FORM></p>
+</td>	    
+</td></tr>
+
+
+<td vAlign="top" width="38%">
+  <p align="left">Check Status by Number</p>
+  <p align="center" >
+            <FORM name="QueryWO" action="http://128.61.170.203/query_wo.cgi" method="post" encType="x-www-form-encoded">
+			<select name="Search"> 
+			  <option value="WO" selected>Work Order #
+			  <option value="WR">Work Request #
+			</SELECT>
+
+			<INPUT name="WorkOrderNumber" style="text-size:50px;">
+			<br/>
+			<input class="buttonfield" type="submit" name="Search"></FORM></p>
+<p class="normalText">			
+ To check the status of a Maintenance Work Request or Work Order, select the
+      appropriate choice above, enter the corresponding number <strong>(sample
+     "21" or "GH-18051", Work Orders always begin with "GH-")</strong> and choose "Submit Query". You can use either the
+    work request number you received when you submitted your request or
+   the work order number that was e-mailed to you when your work request
+                               was accepted.
+</p>
+</td>
+</table>
+</body>
+</html>

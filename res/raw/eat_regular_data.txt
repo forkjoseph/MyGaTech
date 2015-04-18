@@ -1,0 +1,198 @@
+//Today is ... SUNDAY through SATURDAY are contiguous (1 through 7) 
+//Sunday - 1
+//Monday - 2
+//...
+//Friday - 6
+//Saturday - 7
+Brittain,16,20,1
+Brittain,7,20,2
+Brittain,7,20,3
+Brittain,7,20,4
+Brittain,7,20,5
+Brittain,7,15,6
+Brittain,-1,-1,7
+Woodruff,7,22,1
+Woodruff,7,22,2
+Woodruff,7,22,3
+Woodruff,7,22,4
+Woodruff,7,22,5
+Woodruff,7,22,6
+Woodruff,7,22,7
+North Ave,10,0,1
+North Ave,0,2,2
+North Ave,7,0,2
+North Ave,0,2,3
+North Ave,7,0,3
+North Ave,0,2,4
+North Ave,7,0,4
+North Ave,0,2,5
+North Ave,7,0,5
+North Ave,0,2,6
+North Ave,7,22,6
+North Ave,10,22,7
+Burger Bytes,-1,-1,1
+Burger Bytes,11,20,2
+Burger Bytes,11,20,3
+Burger Bytes,11,20,4
+Burger Bytes,11,20,5
+Burger Bytes,11,16.5,6 
+Burger Bytes,-1,-1,7
+BuzzBy,-1,-1,1
+BuzzBy,11,14,2
+BuzzBy,11,14,3
+BuzzBy,11,14,4
+BuzzBy,11,14,5
+BuzzBy,11,14,6 
+BuzzBy,-1,-1,7
+Cafe Spice,-1,-1,1
+Cafe Spice,11,16,2
+Cafe Spice,11,16,3
+Cafe Spice,11,16,4
+Cafe Spice,11,16,5
+Cafe Spice,11,15,6 
+Cafe Spice,-1,-1,7
+Chef Sharon's Station,-1,-1,1
+Chef Sharon's Station,11,16,2
+Chef Sharon's Station,11,16,3
+Chef Sharon's Station,11,16,4
+Chef Sharon's Station,11,16,5
+Chef Sharon's Station,11,15,6 
+Chef Sharon's Station,-1,-1,7
+Chick-fil-A,-1,-1,1
+Chick-fil-A,7,22,2
+Chick-fil-A,7,22,3
+Chick-fil-A,7,22,4
+Chick-fil-A,7,22,5
+Chick-fil-A,7,16.5,6
+Chick-fil-A,11,14,7
+Dunkin' Donuts,-1,-1,1
+Dunkin' Donuts,7,16,2
+Dunkin' Donuts,7,16,3
+Dunkin' Donuts,7,16,4
+Dunkin' Donuts,7,16,5
+Dunkin' Donuts,7,14.5,6
+Dunkin' Donuts,-1,-1,7
+EastSide Market,19,0,1
+EastSide Market,0,1,2
+EastSide Market,11,14,2
+EastSide Market,19,0,2
+EastSide Market,0,1,3
+EastSide Market,11,14,3
+EastSide Market,19,0,3
+EastSide Market,0,1,4
+EastSide Market,11,14,4
+EastSide Market,19,0,4
+EastSide Market,0,1,5
+EastSide Market,11,14,5
+EastSide Market,11,14,6 
+EastSide Market,-1,-1,7
+Essential Eats,-1,-1,1
+Essential Eats,7,16,2
+Essential Eats,7,16,3
+Essential Eats,7,16,4 
+Essential Eats,7,16,5
+Essential Eats,7,16,6
+Essential Eats,-1,-1,7
+Far East Fusion,-1,-1,1
+Far East Fusion,11,16,2
+Far East Fusion,11,16,3
+Far East Fusion,11,16,4
+Far East Fusion,11,16,5
+Far East Fusion,11,15,6
+Far East Fusion,-1,-1,7
+Ferst Place,-1,-1,1
+Ferst Place,11,14,2
+Ferst Place,11,14,3
+Ferst Place,11,14,4
+Ferst Place,11,14,5
+Ferst Place,11,14,6
+Ferst Place,-1,-1,7
+Freshens at H2O,-1,-1,1
+Freshens at H2O,12,18,2
+Freshens at H2O,12,18,3
+Freshens at H2O,12,18,4
+Freshens at H2O,12,18,5
+Freshens at H2O,12,15,6
+Freshens at H2O,-1,-1,7
+Great Wraps,-1,-1,1
+Great Wraps,11,16,2
+Great Wraps,11,16,3
+Great Wraps,11,16,4
+Great Wraps,11,16,5
+Great Wraps,11,15,6
+Great Wraps,-1,-1,7
+Highland Bakery,-1,-1,1
+Highland Bakery,7,16,2
+Highland Bakery,7,16,3
+Highland Bakery,7,16,4
+Highland Bakery,7,16,5
+Highland Bakery,7,16,6
+Highland Bakery,-1,-1,7
+Pizza Hut,-1,-1,1
+Pizza Hut,11,17,2
+Pizza Hut,11,17,3
+Pizza Hut,11,17,4
+Pizza Hut,11,17,5
+Pizza Hut,11,15,6
+Pizza Hut,-1,-1,7
+Rosia's Cantina,-1,-1,1
+Rosia's Cantina,10.5,16,2
+Rosia's Cantina,10.5,16,3
+Rosia's Cantina,10.5,16,4
+Rosia's Cantina,10.5,16,5
+Rosia's Cantina,10.5,15,6
+Rosia's Cantina,-1,-1,7
+Salad Bar,-1,-1,1
+Salad Bar,11,16,2
+Salad Bar,11,16,3
+Salad Bar,11,16,4
+Salad Bar,11,16,5
+Salad Bar,11,15,6
+Salad Bar,-1,-1,7
+Starbucks @CULC,11,0,1
+Starbucks @CULC,0,2,2
+Starbucks @CULC,7,0,2
+Starbucks @CULC,0,2,3
+Starbucks @CULC,7,0,3
+Starbucks @CULC,0,2,4
+Starbucks @CULC,7,0,4
+Starbucks @CULC,0,2,5
+Starbucks @CULC,7,0,5
+Starbucks @CULC,0,2,6
+Starbucks @CULC,7,18,6
+Starbucks @CULC,8,16,7
+Subway,-1,-1,1
+Subway,10.5,20,2
+Subway,10.5,20,3
+Subway,10.5,20,4
+Subway,10.5,20,5
+Subway,10.5,16,6
+Subway,-1,-1,7
+Taco Bell,-1,-1,1
+Taco Bell,10.5,20,2
+Taco Bell,10.5,20,3
+Taco Bell,10.5,20,4
+Taco Bell,10.5,20,5
+Taco Bell,10.5,16,6
+Taco Bell,-1,-1,7
+WestSide Market,0,1,1
+WestSide Market,16,0,1
+WestSide Market,0,1,2
+WestSide Market,16,0,2
+WestSide Market,0,1,3
+WestSide Market,16,0,3
+WestSide Market,0,1,4
+WestSide Market,16,0,4
+WestSide Market,0,1,5
+WestSide Market,16,0,5
+WestSide Market,0,1,6
+WestSide Market,16,0,6
+WestSide Market,0,1,7
+WestSide Market,16,0,7
+Zaya Mediterannean,-1,-1,1
+Zaya Mediterannean,10.5,16,2
+Zaya Mediterannean,10.5,16,3
+Zaya Mediterannean,10.5,16,4
+Zaya Mediterannean,10.5,16,5
+Zaya Mediterannean,10.5,15,6
+Zaya Mediterannean,-1,-1,7

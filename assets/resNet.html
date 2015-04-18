@@ -1,0 +1,432 @@
+
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body style="margin:0; margin-top: 5px; margin-left:10px;overflow-x: hidden;width: 93%;">
+<form name="ResNetSubmit" id="ResNetSubmit" onsubmit="return disableSubmit()" action="https://www.servicedesk.gatech.edu/cgi-bin/gt-service-desk/general/submit.pl" method="post">
+<input name="secure" type="hidden" value="No">
+<input name="excludereportable" type="hidden" value="No">
+<input name="websource" type="hidden" value="ResNet-Web">
+<input name="resnet" type="hidden" value="Yes">
+<input name="supercategory" type="hidden" value="IT">
+<input name="category" type="hidden" value="Dept Supt (Non-OIT)">
+<input name="type" type="hidden" value="Campus Services-ResNet">
+<input name="subtype" type="hidden" value="General-ResNet">
+
+<div style=" width: auto;overflow-x: hidden;">
+<span class="header">Help Request</span>
+<img src="http://resnet.gatech.edu/PublishingImages/fadeline.png" style="width: auto; height: 1px; margin-top: 5px; margin-bottom: 5px;">
+</div>
+<table style="padding-left: 0px; width: 100%; overflow-x: hidden;">
+	<tbody>
+	<tr>
+		<td>
+			<input class="inputfield" id="gtusername" type="text" onfocus="visitInput(this)" onkeypress="clearValue(this)" onblur="leaveInput(this)" style="width: 100%;" name="gtaccount" rel="GT Username" value="GT Username">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input class="inputfield" id="firstname" type="text" onfocus="visitInput(this)" onkeypress="clearValue(this)" onblur="leaveInput(this)" name="firstname" value="First Name" rel = "First Name">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input class="inputfield" id="lastname" type="text" onfocus="visitInput(this)" onkeypress="clearValue(this)" onblur="leaveInput(this)" name="lastname" value="Last Name" rel="Last Name">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input class="inputfield" id="email" type="text" onfocus="visitInput(this)" onkeypress="clearValue(this)" onblur="leaveInput(this)" name="email" value="Email" rel="Email">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input class="inputfield" id="phone" type="text" onfocus="visitInput(this)" onkeypress="clearValue(this)" onblur="leaveInput(this)" name="altphone" value="Phone Number" rel="Phone Number">
+		</td>
+	</tr>
+	<tr>
+		<td>
+		  <select id="residencehall" name="residencehall" onfocus="visitDropdown(this)" onblur="leaveDropdown(this)" rel="Residence Hall" style="width: 100%">
+			<option value="Residence Hall">
+			  Residence Hall
+			</option>
+			<option value="4th St E">
+			  4th St E
+			</option>
+			<option value="6th St East">
+			  6th St East
+			</option>
+			<option value="8th St East">
+			  8th St East
+			</option>
+			<option value="8th St South">
+			  8th St South
+			</option>
+			<option value="8th St West">
+			  8th St West
+			</option>
+			<option value="Armstrong">
+			  Armstrong
+			</option>
+			<option value="Brown">
+			  Brown
+			</option>
+			<option value="Caldwell">
+			  Caldwell
+			</option>
+			<option value="Center St North">
+			  Center St North
+			</option>
+			<option value="Center St South">
+			  Center St South
+			</option>
+			<option value="Cloudman">
+			  Cloudman
+			</option>
+			<option value="Commons">
+			  Commons
+			</option>
+			<option value="Crecine">
+			  Crecine
+			</option>
+			<option value="Field">
+			  Field
+			</option>
+			<option value="Fitten">
+			  Fitten
+			</option>
+			<option value="Folk">
+			  Folk
+			</option>
+			<option value="Freeman">
+			  Freeman
+			</option>
+			<option value="Fulmer">
+			  Fulmer
+			</option>
+			<option value="GLC">
+			  GLC
+			</option>
+			<option value="Glenn">
+			  Glenn
+			</option>
+			<option value="Goldin House">
+			  Goldin House
+			</option>
+			<option value="Hanson">
+			  Hanson
+			</option>
+			<option value="Harris">
+			  Harris
+			</option>
+			<option value="Harrison">
+			  Harrison
+			</option>
+			<option value="Hayes House">
+			  Hayes House
+			</option>
+			<option value="Hefner">
+			  Hefner
+			</option>
+			<option value="Hopkins">
+			  Hopkins
+			</option>
+			<option value="Howell">
+			  Howell
+			</option>
+			<option value="Matheson">
+			  Matheson
+			</option>
+			<option value="Maulding">
+			  Maulding
+			</option>
+			<option value="Montag">
+			  Montag
+			</option>
+			<option value="North Ave East">
+			  North Ave East
+			</option>
+			<option value="North Ave North">
+			  North Ave North
+			</option>
+			<option value="North Ave South">
+			  North Ave South
+			</option>
+			<option value="North Ave West">
+			  North Ave West
+			</option>
+			<option value="Perry">
+			  Perry
+			</option>
+			<option value="Smith">
+			  Smith
+			</option>
+			<option value="Stein House">
+			  Stein House
+			</option>
+			<option value="10th &amp; Home">
+			  10th &amp; Home
+			</option>
+			<option value="Towers">
+			  Towers
+			</option>
+			<option value="ULC">
+			  ULC
+			</option>
+			<option value="Woodruff North">
+			  Woodruff North
+			</option>
+			<option value="Woodruff South">
+			  Woodruff South
+			</option>
+		  </select>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input class="inputfield" id="roomnumber" onfocus="visitInput(this)" onkeypress="clearValue(this)" onblur="leaveInput(this)" type="text" name="room" value="Room Number" rel="Room Number">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<select id="problemsummary" onfocus="visitDropdown(this)" onblur="leaveDropdown(this)" name="problemsummary" style="width: 100%" rel="Select a Problem Summary">
+				<option value="Select a Problem Summary">
+				  Select a Problem Summary
+				</option>
+				<option value="Network: Can&#39;t Connect (Wired)">
+				  Network: Can't Connect (Wired)
+				</option>
+				<option value="Network: Can&#39;t Connect (Wireless)">
+				  Network: Can't Connect (Wireless)
+				</option>
+				<option value="Network: Other">
+				  Network: Other
+				</option>
+				<option value="Telephone: No Dial Tone">
+				  Telephone: No Dial Tone
+				</option>
+				<option value="Telephone: Busy Signal">
+				  Telephone: Busy Signal
+				</option>
+				<option value="Telephone: Intermittent loss of dial tone">
+				  Telephone: Intermittent loss of dial tone
+				</option>
+				<option value="Telephone: Can&#39;t receive calls">
+				  Telephone: Can't receive calls
+				</option>
+				<option value="Telephone: Other">
+				  Telephone: Other
+				</option>
+				<option value="Television: Poor Picture Quality">
+				  Television: Poor Picture Quality
+				</option>
+				<option value="Television: Can&#39;t pick up channels">
+				  Television: Can't pick up channels
+				</option>
+				<option value="Television: Other">
+				  Television: Other
+				</option>
+			  </select>
+		  </td>
+	</tr>
+	<tr>
+		<td>
+			<textarea id="requestdescription" onfocus="visitInput(this)" onkeypress="clearValue(this)" onblur="leaveInput(this)" name="problemdetails" rows="5" rel="Request Description" style="color:grey; float: left; width: 100%;">Request Description</textarea>
+		</td>
+	</tr>
+
+</tbody></table>
+
+<div style=" width: 100%; overflow-x: hidden;">
+	<div id="permission" style="margin-bottom: 5px;">
+		<span style="line-height: 32px; padding: 0; margin: 0; font-size: 16px; vertical-align: left; display: inline-block; width: 100%;">ResNet may enter my room when I'm not present: 
+		<select id="roompermission" onfocus="visitDropdown(this)" onblur="leaveDropdown(this)" rel = "" style="width: 80px; float:right; margin-right: 10px;">
+			<option value="">
+			</option>
+			<option value="Yes">
+			Yes
+			</option>
+			<option value="No">
+			No
+			</option>
+		</select>
+		</span>
+	</div>
+	<span><input class="inputfield" style="color:black; float:left;" type="submit" value="Submit Request" onload="enableSubmit(this);" onclick="disableSubmit(this);"></span>
+	<span id="loading" style="float: left; font-size: 14px; line-height: 36px; font-style: italic;"></span>
+</div>
+</form>
+<script type="text/javascript">
+var changedForms = {};
+var visitedForms = {};
+
+window.onload = resetForm;
+
+function resetForm(){
+	var inputs = document.getElementsByTagName("input");
+	var dropDowns = document.getElementsByTagName("select");
+	var textAreas = document.getElementsByTagName("textarea");
+	
+	for (var i = 0; i < inputs.length; i++){
+		var input = inputs[i];
+		if (input.value == ""){
+			input.value = input.getAttribute("rel");
+		}
+		else if (input.value != input.getAttribute("rel")){
+			input.style.color = "black";
+		}
+	}
+	
+	for (var j = 0; j < dropDowns.length; j++){
+		var drop = dropDowns[j];
+		if (drop.selectedIndex != 0){
+			drop.style.color = "black";
+		}
+	}
+	
+	for (var k = 0; k < textAreas.length; k++){
+		var ta = textAreas[k];
+		var permission = ta.value.indexOf(" I give ResNet permission to enter my room when I am not present.");
+		if (permission > -1){
+			ta.value = ta.value.substring(0, permission);
+		}
+		if (ta.value == ""){
+			ta.value = ta.getAttribute("rel");
+		}
+		else if (ta.value != ta.getAttribute("rel")){
+			ta.style.color = "black";
+		}
+	}
+}
+
+function visitInput(reference)
+{
+	reference.focus();
+	if (reference.value == reference.getAttribute("rel")){
+		reference.style.color = '#BBB';
+		reference.setSelectionRange(0,0);
+		window.setTimeout(function(){
+			reference.setSelectionRange(0,0);		
+		},1);
+	}
+}
+
+function visitTextarea(reference)
+{
+	reference.focus();
+	if (reference.value == reference.getAttribute("rel")){
+		reference.style.color = '#BBB';
+		reference.setSelectionRange(0,0);
+		window.setTimeout(function(){
+			reference.setSelectionRange(0,0);		
+		},1);
+	}
+}
+
+function visitDropdown(reference)
+{
+	reference.focus();
+	reference.style.color = 'black';
+}
+
+function leaveDropdown(reference)
+{
+	if (reference.value == reference.getAttribute("rel")){
+		reference.style.color = 'grey';
+	}
+}
+
+function clearTextarea(reference)
+{
+	if (reference.innerHTML == reference.getAttribute("rel")){
+		reference.style.color = 'black';
+		reference.innerHTML = '';
+	}
+}
+
+function clearValue(reference)
+{
+	if (reference.value == reference.getAttribute("rel")){
+		reference.value = '';
+		reference.style.color = 'black';
+	}
+}
+
+function leaveInput(reference)
+{
+	if (reference.value == reference.getAttribute("rel"))
+		reference.style.color = 'grey';
+	else if (reference.value == ''){
+		reference.value = reference.getAttribute("rel");
+		reference.style.color = 'grey';
+	}
+}
+
+function leaveTextarea(reference)
+{
+	if (reference.innerHTML == reference.getAttribute("rel")){
+		reference.style.color = 'grey';
+//		reference.innerHTML = "AHA!";
+	}
+	else if (reference.innerHTML == ""){
+		reference.innerHTML = reference.getAttribute("rel");
+		reference.style.color = 'grey';
+	}
+}
+
+function disableSubmit(reference)
+{
+	var room = document.getElementById("roompermission");
+	if (room.value != ""){
+		reference.disabled = true;
+		var answer = room.value;
+		var description = document.getElementById("requestdescription");
+		clearDefaults();
+		if (answer == "Yes"){
+			description.value = description.value + " I give ResNet permission to enter my room when I am not present.";
+			description.innerHTML = description.innerHTML + " I give ResNet permission to enter my room when I am not present.";
+		}
+		hilightInput(document.getElementById("permission"),"#FFF");
+		document.getElementById("loading").innerHTML = "Loading...";		
+		document.forms["ResNetSubmit"].submit();
+	}
+	else{
+		document.getElementById("loading").innerHTML = "Please select an option.";
+		hilightInput(document.getElementById("permission"),"#FE4");
+	}
+	return false;
+}
+
+function clearDefaults(){
+	var inputs = document.getElementsByTagName("input");
+	var dropDowns = document.getElementsByTagName("select");
+	var textAreas = document.getElementsByTagName("textarea");
+	
+	for (var i = 0; i < inputs.length; i++){
+		var input = inputs[i];
+		if (input.value == input.getAttribute("rel")){
+			input.value = "";
+		}
+	}
+	
+	for (var k = 0; k < textAreas.length; k++){
+		var ta = textAreas[k];
+		if (ta.value == ta.getAttribute("rel")){
+			ta.value = "";
+		}
+	}
+}
+
+function enableSubmit(reference)
+{
+	reference.disabled = false;
+}
+
+function hilightInput(reference, hilight){
+	reference.style.backgroundColor = hilight;
+}
+</script>
+</body>
+</html>
