@@ -4,7 +4,8 @@ Android application written purely in Java with Eclipse IDE.
 ## Structures
 *  T-Square : fetch and parse data related to the user's classes, notify new assignment, grades, etc.
 *  Buzzport : formats Buzzport in mobile-friendly readable fashion (exp.). 
-*  Where To Eat : lists available places to eat (data might be outdated)
+*  Where To Eat : lists available places to eat (data might be outdated).
+*  Campus Map : shows campus buildings in Google Maps.
 *  Reserve : reserves a room in CULC.
 *  Announce : broadcast information with GCM.
 *  Others : web-based.
