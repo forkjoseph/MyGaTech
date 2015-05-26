@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mygatech"
+    android:versionCode="1"
+    android:versionName="1.0.2014 - Beta Test2" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <permission
+        android:name="com.mygatech.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.mygatech.permission.C2D_MESSAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" >
+    </uses-feature>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:persistent="true"
+        android:theme="@style/AppBaseTheme" >
+        <receiver
+            android:name="com.mygatech.MainReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.DREAMING_STARTED" />
+                <action android:name="android.intent.action.DREAMING_STOPPED" />
+                <action android:name="android.intent.action.REBOOT" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.POWER_CONNECTED" />
+                <action android:name="android.intent.action.BATTERY_OKAY" />
+                <action android:name="android.intent.action.SCREEN_ON" />
+                <action android:name="android.intent.action.SCREEN_OFF" />
+                <action android:name="android.intent.action.TIME_TICK" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.mygatech.StartResultReceiver"
+            android:enabled="true" >
+        </receiver>
+        <receiver
+            android:name=".GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.mygatech" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.mygatech.tsquare.TsquareService"
+            android:enabled="true"
+            android:process=":remote" />
+        <service android:name="com.mygatech.GcmIntentService" />
+        <service android:name="com.mygatech.MainService" />
+        <service android:name="com.mygatech.FirstTimeTsquareService" />
+        <service android:name="com.mygatech.AFDService" />
+        <service android:name="com.mygatech.StartService" />
+
+        <activity
+            android:name="com.mygatech.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="com.mygatech.MESSAGE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mygatech.StingActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/sting" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.TsquareActivity"
+            android:label="@string/tsquare" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.webview.BusActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/bus" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.webview.EatActivity"
+            android:label="@string/eat"
+            android:multiprocess="true" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.ReservActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/reserve" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.tsquare.TsquareMain"
+            android:label="@string/tsquareclass" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.tsquare.TsquareMenu"
+            android:label="@string/tsquaremenu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.TsquareMain" />
+        </activity>
+        <activity
+            android:name="com.mygatech.StartActivity"
+            android:label="@string/login_title" />
+        <activity
+            android:name="com.mygatech.FeedbackActivity"
+            android:label="@string/mail_title"
+            android:launchMode="singleTask" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.webview.CalendarActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/calendar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.BuzzportActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/buzzport" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.webview.AboutActivity"
+            android:label="@string/about" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.external.LinkToQBot"
+            android:label="@string/qbot" />
+        <activity
+            android:name="com.mygatech.EmailActivity"
+            android:label="@string/gtmail" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.tsquare.TsquareSubMenu"
+            android:label="@string/subMenu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.TsquareMenu" />
+        </activity>
+        <activity
+            android:name="com.mygatech.tsquare.TsquareWebView"
+            android:label="@string/subMenu"
+            android:process=":webView" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.TsquareSubMenu" />
+        </activity>
+        <activity
+            android:name="com.mygatech.MaintenanceActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/mainT" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.tsquare.TsquareFinalMenu"
+            android:label="@string/finalMenu"
+            android:process=":finalMenu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.TsquareSubMenu" />
+        </activity>
+        <activity
+            android:name="com.mygatech.tsquare.TsquareWVOnly"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/tsquare" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.tsquare.TsquareNotifyView"
+            android:finishOnTaskLaunch="true"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:process=":notify" />
+        <activity
+            android:name="com.mygatech.MenuSettingsActivity"
+            android:label="@string/Settings" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.mygatech.GuestStudent"
+            android:label="@string/guest" />
+        <activity
+            android:name="com.mygatech.TestActivity"
+            android:label="@string/guest" />
+
+        <!-- Map part begins -->
+        <activity
+            android:name="com.mygatech.map.MapPane"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/googleMap"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mygatech.MainActivity" />
+        </activity>
+
+        <provider
+            android:name="com.mygatech.map.MapAddressProvider"
+            android:authorities="com.mygatech.map.DictionaryProvider"
+            android:exported="false"
+            android:multiprocess="true" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDjdK9sYK8JiliN0TKwHZLBqdzIzLT0xN8" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+    </application>
+
+</manifest>
